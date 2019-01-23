@@ -1,0 +1,15 @@
+﻿  Actor.cpp
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(130): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(142): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(147): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(240): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(281): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(315): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(386): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(388): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(438): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(455): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(466): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\13ren\programming\c++\cs32\nachenblaster\nachenblaster\actor.cpp(483): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  NachenBlaster.vcxproj -> C:\Users\13ren\Programming\c++\cs32\NachenBlaster\Debug\NachenBlaster.exe
